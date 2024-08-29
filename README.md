@@ -1,6 +1,6 @@
 # Singing Schools in Toronto Article Website
 
-This project contains a simple HTML webpage that provides comprehensive <a href=https://torontosingingacademy.com/>Singing Schools in Toronto</a> tips and includes a call to action for Singing Schools from Toronto Singing Academy.
+This project contains a simple HTML webpage that provides comprehensive <a href=https://torontosingingacademy.com/>Singing Schools</a> tips and includes a call to action for Singing Schools from Toronto Singing Academy.
 
 ## Table of Contents
 
